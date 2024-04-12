@@ -46,7 +46,7 @@ const Login = () => {
           </div>
         </div>
         <div class="flex justify-center">
-          <p class="text-gray-500 underline">Don't have an account yet?<span><a href="/registration"  class="text-sm text-blue-400 underline p-1">Create an account</a></span></p>
+          <p class="text-gray-500 underline">Don't have an account yet?<span><Link to="/registration"  class="text-sm text-blue-400 underline p-1">Create an account</Link></span></p>
           
         </div>
       </form>
