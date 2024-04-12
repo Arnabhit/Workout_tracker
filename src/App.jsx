@@ -16,7 +16,7 @@ function App() {
 
   return (
     // <>
-     <div className=' flex flex-col justify-center items-center min-h-screen'>
+     <div className=' md:bg-gray-500 flex flex-col justify-center items-center min-h-screen'>
     
     <BrowserRouter>
       <Routes>
