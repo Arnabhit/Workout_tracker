@@ -71,9 +71,9 @@ const Registration = () => {
         </div>
         <div class="flex justify-center">
           <p class="text-gray-600">Already have an account?</p>
-          <a href="/login" class="font-medium text-blue-400 px-1 hover:underline">
+          <Link to="/login" class="font-medium text-blue-400 px-1 hover:underline">
             Sign in
-          </a>
+          </Link>
         </div>
       </form>
     </div>
